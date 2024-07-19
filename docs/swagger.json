@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://mirano-api-h7q7.onrender.com" 
+      "url": "https://mirano-api-h7q7.onrender.com", 
       "description": "Test server"
     }
   ],
