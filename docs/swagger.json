@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://mirano-api-cpax.onrender.com", 
+      "url": "https://mirano-api-tfpr.onrender.com", 
       "description": "Test server"
     }
   ],
