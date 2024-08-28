@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://mirano-api-tfpr.onrender.com", 
+      "url": "https://mirano-api-1.onrender.com", 
       "description": "Test server"
     }
   ],
